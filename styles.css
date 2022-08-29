@@ -1,4 +1,66 @@
-body {
-background-color: rgb(26, 26, 235);
+.top{
+        background-image: url("./NASA.jpg");
+        width: 850PX;
+        height: 450PX;
+    }
 
+h1 {
+    color: aliceblue;
+    font-size: 80px;
+    padding: 130px;
+    
+    display: flex; 
+    justify-content: center; 
+    align-items: baseline;
+    }
+
+.bottom {
+    display: flex; 
+    justify-content: space-evenly;
+    background-color: rgb(228, 224, 220);
+    width: 850PX;
+    height: 324PX;
+    }
+
+/* .head {
+    display: flex; justify-content: center;
+    }
+.body {
+    background-color: rgb(201, 201, 218);
+    margin: 0;
+    font-family: 'Cairo', sans-serif;
+    display: flex; flex-direction: row; flex: center;
+} */
+
+
+
+
+/* div {
+    display: flex;
+} */
+/* img {
+    width: flex; 
+    height: 225PX;
+  } */
+
+
+.Top {
+    border: 10px solid white;
 }
+.bottom {
+    border: 10px solid white;
+    height: 234PX;
+    
+}
+/* section {
+    border: 4px solid rgb(0, 255, 55);
+    height: 324PX;
+} */
+/* img {
+    width: 850PX;
+    height: 225PX;
+  } */
+  /* <style>
+/* body {
+  
+} */
